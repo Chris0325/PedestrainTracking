@@ -19,7 +19,7 @@ We correctly identify the trojectories of 3 out of 4 persons ever across our pre
 
 <img src="https://user-images.githubusercontent.com/26423200/35379205-4cd6b6c2-01f0-11e8-8ac3-4d26ab70c605.jpg" width="250"><img src="https://user-images.githubusercontent.com/26423200/35379219-5847769a-01f0-11e8-977a-1ce2652153ad.jpg" width="250"><img src="https://user-images.githubusercontent.com/26423200/35379225-5dec7a32-01f0-11e8-822e-4dc25cb71709.jpg" width="250">
 
-### Command Line Results
+### Console Output
 
 ![screenshot from 2018-01-25 19-01-13](https://user-images.githubusercontent.com/26423200/35385074-287bd0d4-0202-11e8-807b-37ab7b512836.png)
 
