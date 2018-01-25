@@ -21,6 +21,6 @@ We only correctly identify the trojectories of 3 out of 4 persons ever accross o
 
 ### Command Line Results
 
-![screenshot from 2018-01-25 18-04-54](https://user-images.githubusercontent.com/26423200/35382502-6ef590c0-01fa-11e8-868d-a0833b19ee41.png)
+![screenshot from 2018-01-25 19-01-13](https://user-images.githubusercontent.com/26423200/35385074-287bd0d4-0202-11e8-807b-37ab7b512836.png)
 
 As you can see, we identify 10 persons in total. The number on the right of each output log is the area of the bounding box when a person leaves the scene.
