@@ -1,4 +1,4 @@
-# :sparkles::sparkles:**PedestrianCounter-C++** :sparkles::sparkles:
+# :sparkles::sparkles:**PedestrainTracking** :sparkles::sparkles:
 This is a C++ reimplementation and refinement of [blacksteed232's **PedestrianCounter**](https://github.com/blacksteed232/PedestrianCounter) with tracking in mind. 
 
 ## Requirements
