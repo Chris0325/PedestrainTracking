@@ -311,7 +311,13 @@ int main() {
 
     std::cout << "people in " << nPeopleIn << std::endl;
     std::cout << "people out " << nPeopleOut << std::endl;
-
+    
+    auto p = peopleList->right;
+    while (p != nil) {
+        auto tmp = p->right;
+        delete p;
+        p = tmp;
+    }
     delete nil;
     cv::destroyAllWindows();
     return 0;
