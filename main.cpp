@@ -308,6 +308,14 @@ int main() {
         cnt++;
     }
 
+    auto p = peopleList->right;
+    while (p != nil) {
+        std::cout << "deleted people " << p->pos.area() << std::endl;
+        auto tmp = p->right;
+        delete p;
+        p = tmp;
+    }
+    delete nil;
 
     std::cout << "people in " << nPeopleIn << std::endl;
     std::cout << "people out " << nPeopleOut << std::endl;
